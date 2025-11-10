@@ -1,0 +1,2634 @@
+{
+  "name": "Awesome Web Development Resources",
+  "type": "folder",
+  "children": [
+{
+  "name": "Hosting",
+  "type": "folder",
+  "children": [
+    {
+      "name": "GeneralWebHostingServices",
+      "type": "folder",
+      "children": [
+        {
+          "name": "000webhostapp",
+          "type": "url",
+          "url": "https://www.000webhost.com/"
+        },
+        {
+          "name": "InfinityFree",
+          "type": "url",
+          "url": "https://infinityfree.net/"
+        }
+      ]
+    },
+    {
+      "name": "CloudHostingPlatforms",
+      "type": "folder",
+      "children": [
+        {
+          "name": "AmazonWebServices",
+          "type": "url",
+          "url": "https://aws.amazon.com"
+        },
+        {
+          "name": "DigitalOcean",
+          "type": "url",
+          "url": "https://www.digitalocean.com/"
+        },
+        {
+          "name": "Render",
+          "type": "url",
+          "url": "https://render.com"
+        },
+        {
+          "name": "Kinsta",
+          "type": "url",
+          "url": "https://kinsta.com/static-site-hosting/"
+        }
+      ]
+    },
+    {
+      "name": "StaticSiteHosting",
+      "type": "folder",
+      "children": [
+        {
+          "name": "GitHubPages",
+          "type": "url",
+          "url": "https://pages.github.com"
+        },
+        {
+          "name": "GitLabPages",
+          "type": "url",
+          "url": "https://docs.gitlab.com/ee/user/project/pages/"
+        },
+        {
+          "name": "CloudflarePages",
+          "type": "url",
+          "url": "https://pages.cloudflare.com/"
+        },
+        {
+          "name": "Surge",
+          "type": "url",
+          "url": "https://surge.sh"
+        },
+        {
+          "name": "Netlify",
+          "type": "url",
+          "url": "https://netlify.com"
+        }
+      ]
+    },
+    {
+      "name": "JAMstack&ServerlessHosting",
+      "type": "folder",
+      "children": [
+        {
+          "name": "Vercel",
+          "type": "url",
+          "url": "https://vercel.com"
+        },
+        {
+          "name": "Stormkit",
+          "type": "url",
+          "url": "https://stormkit.io"
+        }
+      ]
+    },
+    {
+      "name": "DeveloperFocusedOrOpenSourceOptions",
+      "type": "folder",
+      "children": [
+        {
+          "name": "Supabase",
+          "type": "url",
+          "url": "https://supabase.com"
+        },
+        {
+          "name": "Railway",
+          "type": "url",
+          "url": "https://railway.app/"
+        },
+        {
+          "name": "Flyio",
+          "type": "url",
+          "url": "https://fly.io/"
+        }
+      ]
+    },
+    {
+      "name": "Web3&DecentralizedWebHosting",
+      "type": "folder",
+      "children": [
+        {
+          "name": "Fleek",
+          "type": "url",
+          "url": "https://fleek.co/"
+        }
+      ]
+    }
+  ]
+},
+{
+  "name": "LearningPlatforms",
+  "type": "folder",
+  "children": [
+    {
+      "name": "GeneralWebDevelopmentProgramming",
+      "type": "folder",
+      "children": [
+        {"name": "FreeCodeCamp", "type": "url", "url": "https://www.freecodecamp.org/"},
+        {"name": "LambdaTestLearningHub", "type": "url", "url": "https://www.lambdatest.com/learning-hub/"},
+        {"name": "Codecademy", "type": "url", "url": "https://codecademy.com"},
+        {"name": "Coursera", "type": "url", "url": "https://www.coursera.org"},
+        {"name": "edX", "type": "url", "url": "https://www.edx.org/"},
+        {"name": "KhanAcademy", "type": "url", "url": "https://khanacademy.org"},
+        {"name": "SoloLearn", "type": "url", "url": "https://sololearn.com"},
+        {"name": "ScalerTopics", "type": "url", "url": "https://www.scaler.com/topics/"},
+        {"name": "TheOdinProject", "type": "url", "url": "https://www.theodinproject.com"},
+        {"name": "Guru99", "type": "url", "url": "https://www.guru99.com/"},
+        {"name": "WebDev", "type": "url", "url": "https://web.dev/"},
+        {"name": "GeeksforGeeksWebDevelopment", "type": "url", "url": "https://www.geeksforgeeks.org/web-development/"},
+        {"name": "Javatpoint", "type": "url", "url": "https://javatpoint.com"},
+        {"name": "MicrosoftLearn", "type": "url", "url": "https://learn.microsoft.com/en-gb/training/"},
+        {"name": "CSSBattle", "type": "url", "url": "https://cssbattle.dev/"}
+      ]
+    },
+    {
+      "name": "JavaScriptFrontendFocus",
+      "type": "folder",
+      "children": [
+        {"name": "JavaScript30", "type": "url", "url": "https://javascript30.com"},
+        {"name": "FrontendMentor", "type": "url", "url": "https://www.frontendmentor.io"},
+        {"name": "JavaScriptInfo", "type": "url", "url": "https://javascript.info/"},
+        {"name": "VueSchool", "type": "url", "url": "https://vueschool.io/"},
+        {"name": "EloquentJavaScript", "type": "url", "url": "https://eloquentjavascript.net/"},
+        {"name": "CSSTricks", "type": "url", "url": "https://css-tricks.com/"}
+      ]
+    },
+    {
+      "name": "CodingChallengesPractice",
+      "type": "folder",
+      "children": [
+        {"name": "TestAutomationUniversity", "type": "url", "url": "https://testautomationu.applitools.com"},
+        {"name": "CodeOrg", "type": "url", "url": "https://code.org/"},
+        {"name": "InterviewBit", "type": "url", "url": "https://www.interviewbit.com/"},
+        {"name": "FrontendPractice", "type": "url", "url": "https://frontendpractice.com"}
+      ]
+    },
+    {
+      "name": "UniversityAcademicCourses",
+      "type": "folder",
+      "children": [
+        {"name": "MITOCW", "type": "url", "url": "https://ocw.mit.edu/"},
+        {"name": "Gymnasium", "type": "url", "url": "https://thegymnasium.com"},
+        {"name": "FullstackOpen", "type": "url", "url": "https://fullstackopen.com/en/"}
+      ]
+    },
+    {
+      "name": "SalesforceSpecificTools",
+      "type": "folder",
+      "children": [
+        {"name": "SalesforceTrailhead", "type": "url", "url": "https://trailhead.salesforce.com/"},
+        {"name": "CodementorEvents", "type": "url", "url": "https://www.codementor.io/events"},
+        {"name": "Amigoscode", "type": "url", "url": "https://www.amigoscode.com"}
+      ]
+    }
+  ]
+},
+{
+  "name": "CodingChallengePlatform",
+  "type": "folder",
+  "children": [
+    {
+      "name": "GeneralCodingChallenges",
+      "type": "folder",
+      "children": [
+        {"name": "Codewars", "type": "url", "url": "https://www.codewars.com/"},
+        {"name": "Topcoder", "type": "url", "url": "https://topcoder.com"},
+        {"name": "Codingame", "type": "url", "url": "https://www.codingame.com/start"},
+        {"name": "HackerRank", "type": "url", "url": "https://hackerrank.com"},
+        {"name": "Coderbyte", "type": "url", "url": "https://coderbyte.com"},
+        {"name": "Codechef", "type": "url", "url": "https://codechef.com"},
+        {"name": "Exercism", "type": "url", "url": "https://exercism.org"},
+        {"name": "LeetCode", "type": "url", "url": "https://leetcode.com"},
+        {"name": "Edabit", "type": "url", "url": "https://edabit.com"}
+      ]
+    },
+    {
+      "name": "AlgorithmDataStructureFocused",
+      "type": "folder",
+      "children": [
+        {"name": "ProjectEuler", "type": "url", "url": "https://projecteuler.net"},
+        {"name": "SPOJ", "type": "url", "url": "https://spoj.com"},
+        {"name": "CodeSignal", "type": "url", "url": "https://codesignal.com"},
+        {"name": "InterviewBit", "type": "url", "url": "https://www.interviewbit.com/"},
+        {"name": "JSChallenger", "type": "url", "url": "https://www.jschallenger.com"}
+      ]
+    },
+    {
+      "name": "CompetitiveProgramming",
+      "type": "folder",
+      "children": [
+        {"name": "Codeforces", "type": "url", "url": "https://codeforces.com"},
+        {"name": "HackerEarth", "type": "url", "url": "https://www.hackerearth.com"},
+        {"name": "FrontendPractice", "type": "url", "url": "https://frontendpractice.com"},
+        {"name": "CSSChallenges", "type": "url", "url": "https://css-challenges.com"}
+      ]
+    },
+    {
+      "name": "SpecializedNicheChallenges",
+      "type": "folder",
+      "children": [
+        {"name": "FrontendMentor", "type": "url", "url": "https://frontendmentor.io"},
+        {"name": "DevChallenges", "type": "url", "url": "https://devchallenges.io"},
+        {"name": "100DaysCSS", "type": "url", "url": "https://100dayscss.com"},
+        {"name": "CodePip", "type": "url", "url": "https://codepip.com"},
+        {"name": "LabJSRobot", "type": "url", "url": "https://lab.reaal.me/jsrobot/"},
+        {"name": "DivizeChallenges", "type": "url", "url": "https://divize.io/challenges"}
+      ]
+    }
+  ]
+},
+{
+  "name": "FreelancingPlatforms",
+  "type": "folder",
+  "children": [
+    {
+      "name": "FreelancingMarketplaces",
+      "type": "folder",
+      "children": [
+        {
+          "name": "Upwork",
+          "type": "url",
+          "url": "https://upwork.com"
+        },
+        {
+          "name": "Freelancer",
+          "type": "url",
+          "url": "https://www.freelancer.com"
+        },
+        {
+          "name": "PeoplePerHour",
+          "type": "url",
+          "url": "https://peopleperhour.com"
+        },
+        {
+          "name": "SimplyHired",
+          "type": "url",
+          "url": "https://simplyhired.com"
+        },
+        {
+          "name": "Guru",
+          "type": "url",
+          "url": "https://guru.com"
+        },
+        {
+          "name": "Fiverr",
+          "type": "url",
+          "url": "https://fiverr.com"
+        },
+        {
+          "name": "Truelancer",
+          "type": "url",
+          "url": "https://www.truelancer.com"
+        },
+        {
+          "name": "Refrens",
+          "type": "url",
+          "url": "https://www.refrens.com"
+        }
+      ]
+    },
+    {
+      "name": "TechFocusedFreelancing",
+      "type": "folder",
+      "children": [
+        {
+          "name": "Toptal",
+          "type": "url",
+          "url": "https://toptal.com"
+        },
+        {
+          "name": "Gunio",
+          "type": "url",
+          "url": "https://gun.io"
+        },
+        {
+          "name": "6Nomads",
+          "type": "url",
+          "url": "https://6nomads.com"
+        }
+      ]
+    },
+    {
+      "name": "CreativeDesignFreelancing",
+      "type": "folder",
+      "children": [
+        {
+          "name": "Envato",
+          "type": "url",
+          "url": "https://www.envato.com"
+        }
+      ]
+    }
+  ]
+},
+{
+  "name": "RemoteJobs",
+  "type": "folder",
+  "children": [
+    {
+      "name": "GeneralRemoteJobBoards",
+      "type": "folder",
+      "children": [
+        {
+          "name": "FlexJobs",
+          "type": "url",
+          "url": "https://www.flexjobs.com"
+        },
+        {
+          "name": "RemoteCo",
+          "type": "url",
+          "url": "https://remote.co/remote-jobs"
+        },
+        {
+          "name": "JustRemote",
+          "type": "url",
+          "url": "https://justremote.co"
+        },
+        {
+          "name": "WeWorkRemotely",
+          "type": "url",
+          "url": "https://weworkremotely.com"
+        },
+        {
+          "name": "RemoteOK",
+          "type": "url",
+          "url": "https://remoteok.io"
+        },
+        {
+          "name": "Jobspresso",
+          "type": "url",
+          "url": "https://jobspresso.co"
+        },
+        {
+          "name": "4DayWeek",
+          "type": "url",
+          "url": "https://4dayweek.io"
+        },
+        {
+          "name": "Wellfound",
+          "type": "url",
+          "url": "https://wellfound.com/"
+        },
+        {
+          "name": "SmartRemoteJobs",
+          "type": "url",
+          "url": "https://www.smartremotejobs.com"
+        }
+      ]
+    },
+    {
+      "name": "TechSpecificRemoteJobs",
+      "type": "folder",
+      "children": [
+        {
+          "name": "ShowwcaseJobs",
+          "type": "url",
+          "url": "https://www.showwcase.com/jobs"
+        },
+        {
+          "name": "RemoteFrontendJobs",
+          "type": "url",
+          "url": "https://www.remotefrontendjobs.com/"
+        },
+        {
+          "name": "JobBoardSearch",
+          "type": "url",
+          "url": "https://jobboardsearch.com"
+        },
+        {
+          "name": "HireTechLadies",
+          "type": "url",
+          "url": "https://www.hiretechladies.com"
+        },
+        {
+          "name": "EchoJobs",
+          "type": "url",
+          "url": "https://echojobs.io"
+        },
+        {
+          "name": "AiJobsTracker",
+          "type": "url",
+          "url": "https://AiJobsTracker.com/remote"
+        },
+        {
+          "name": "RemoteIo",
+          "type": "url",
+          "url": "https://www.remote.io"
+        }
+      ]
+    },
+    {
+      "name": "Web3&CryptoRemoteJobs",
+      "type": "folder",
+      "children": [
+        {
+          "name": "Web3Career",
+          "type": "url",
+          "url": "https://web3.career/remote-jobs"
+        },
+        {
+          "name": "OkJob",
+          "type": "url",
+          "url": "https://okjob.io"
+        },
+        {
+          "name": "RealWorkFromAnywhere",
+          "type": "url",
+          "url": "https://www.realworkfromanywhere.com"
+        },
+        {
+          "name": "MoaiJobs",
+          "type": "url",
+          "url": "https://www.moaijobs.com"
+        }
+      ]
+    }
+  ]
+},
+{
+  "name": "Photos",
+  "type": "folder",
+  "children": [
+    {
+      "name": "GeneralFreePhotoResources",
+      "type": "folder",
+      "children": [
+        {
+          "name": "Unsplash",
+          "type": "url",
+          "url": "https://unsplash.com"
+        },
+        {
+          "name": "Pixabay",
+          "type": "url",
+          "url": "https://pixabay.com"
+        },
+        {
+          "name": "Pexels",
+          "type": "url",
+          "url": "https://pexels.com"
+        },
+        {
+          "name": "FreePhotosCC",
+          "type": "url",
+          "url": "https://freephotos.cc/en"
+        },
+        {
+          "name": "PXFuel",
+          "type": "url",
+          "url": "https://www.pxfuel.com"
+        },
+        {
+          "name": "SplitShire",
+          "type": "url",
+          "url": "https://www.splitshire.com"
+        },
+        {
+          "name": "Librestock",
+          "type": "url",
+          "url": "https://librestock.com"
+        }
+      ]
+    },
+    {
+      "name": "Curated&UniqueCollections",
+      "type": "folder",
+      "children": [
+        {
+          "name": "Reshot",
+          "type": "url",
+          "url": "https://reshot.com"
+        },
+        {
+          "name": "VisualHunt",
+          "type": "url",
+          "url": "https://visualhunt.com"
+        },
+        {
+          "name": "PicJumbo",
+          "type": "url",
+          "url": "https://picjumbo.com"
+        },
+        {
+          "name": "FreeForCommercialUse",
+          "type": "url",
+          "url": "https://freeforcommercialuse.net"
+        }
+      ]
+    },
+    {
+      "name": "GradientGenrator",
+      "type": "folder",
+      "children": [
+        {
+          "name": "PhotoGradient",
+          "type": "url",
+          "url": "https://photogradient.com"
+        }
+      ]
+    }
+  ]
+},
+{
+  "name": "Videos",
+  "type": "folder",
+  "children": [
+    {
+      "name": "FreeStockVideoResources",
+      "type": "folder",
+      "children": [
+        {
+          "name": "Dareful",
+          "type": "url",
+          "url": "https://dareful.com"
+        },
+        {
+          "name": "Videvo",
+          "type": "url",
+          "url": "https://www.videvo.net"
+        },
+        {
+          "name": "Videezy",
+          "type": "url",
+          "url": "https://www.videezy.com"
+        },
+        {
+          "name": "PixabayVideos",
+          "type": "url",
+          "url": "https://pixabay.com/videos"
+        },
+        {
+          "name": "Mixkit",
+          "type": "url",
+          "url": "https://mixkit.co"
+        },
+        {
+          "name": "Vidsplay",
+          "type": "url",
+          "url": "https://www.vidsplay.com"
+        },
+        {
+          "name": "Mazwai",
+          "type": "url",
+          "url": "https://mazwai.com"
+        },
+        {
+          "name": "PexelsVideos",
+          "type": "url",
+          "url": "https://www.pexels.com"
+        }
+      ]
+    },
+    {
+      "name": "CuratedVideoCollections",
+      "type": "folder",
+      "children": [
+        {
+          "name": "Coverr",
+          "type": "url",
+          "url": "https://coverr.co"
+        },
+        {
+          "name": "SplitShire",
+          "type": "url",
+          "url": "https://www.splitshire.com"
+        },
+        {
+          "name": "PhotoStockEditor",
+          "type": "url",
+          "url": "https://photostockeditor.com"
+        },
+        {
+          "name": "Clipstill",
+          "type": "url",
+          "url": "https://www.clipstill.com"
+        }
+      ]
+    }
+  ]
+},
+{
+  "name": "Illustrations",
+  "type": "folder",
+  "children": [
+    {
+      "name": "General-Illustrations",
+      "type": "folder",
+      "children": [
+        {
+          "name": "Icons8Illustrations",
+          "type": "url",
+          "url": "https://icons8.com/illustrations"
+        },
+        {
+          "name": "OpenDoodles",
+          "type": "url",
+          "url": "https://www.opendoodles.com"
+        },
+        {
+          "name": "UnDraw",
+          "type": "url",
+          "url": "https://undraw.co/illustrations"
+        },
+        {
+          "name": "DrawKit",
+          "type": "url",
+          "url": "https://www.drawkit.com"
+        },
+        {
+          "name": "IraDesign",
+          "type": "url",
+          "url": "https://iradesign.io"
+        },
+        {
+          "name": "Storyset",
+          "type": "url",
+          "url": "https://storyset.com"
+        },
+        {
+          "name": "ThemeIsleIllustrations",
+          "type": "url",
+          "url": "https://themeisle.com/illustrations"
+        }
+      ]
+    },
+    {
+      "name": "Customizable-Illustrations",
+      "type": "folder",
+      "children": [
+        {
+          "name": "Icons8Ouch",
+          "type": "url",
+          "url": "https://icons8.com/ouch"
+        },
+        {
+          "name": "Blush",
+          "type": "url",
+          "url": "https://blush.design"
+        },
+        {
+          "name": "ManyPixels",
+          "type": "url",
+          "url": "https://www.manypixels.co/gallery"
+        },
+        {
+          "name": "ArtifyFigma",
+          "type": "url",
+          "url": "https://www.artify.co/illustrations-figma"
+        },
+        {
+          "name": "ArtifyVectors",
+          "type": "url",
+          "url": "https://www.artify.co/vector-illustrations"
+        },
+        {
+          "name": "CocoMaterial",
+          "type": "url",
+          "url": "https://cocomaterial.com/"
+        }
+      ]
+    }
+  ]
+},
+{
+  "name": "Icons",
+  "type": "folder",
+  "children": [
+    {
+      "name": "GeneralIconLibraries",
+      "type": "folder",
+      "children": [
+        {
+          "name": "SvgMix",
+          "type": "url",
+          "url": "https://svgmix.com"
+        },
+        {
+          "name": "FreeIcons",
+          "type": "url",
+          "url": "https://free-icons.github.io/free-icons"
+        },
+        {
+          "name": "FontAwesome",
+          "type": "url",
+          "url": "https://fontawesome.com"
+        },
+        {
+          "name": "Flaticon",
+          "type": "url",
+          "url": "https://flaticon.com"
+        },
+        {
+          "name": "Icons8",
+          "type": "url",
+          "url": "https://icons8.com"
+        },
+        {
+          "name": "Iconfinder",
+          "type": "url",
+          "url": "https://www.iconfinder.com"
+        },
+        {
+          "name": "GoogleIcons",
+          "type": "url",
+          "url": "https://fonts.google.com/icons"
+        },
+        {
+          "name": "Heroicons",
+          "type": "url",
+          "url": "https://heroicons.com"
+        },
+        {
+          "name": "Boxicons",
+          "type": "url",
+          "url": "https://boxicons.com"
+        }
+      ]
+    },
+    {
+      "name": "CustomizableIconResources",
+      "type": "folder",
+      "children": [
+        {
+          "name": "IconMonstr",
+          "type": "url",
+          "url": "https://iconmonstr.com"
+        },
+        {
+          "name": "TablerIcons",
+          "type": "url",
+          "url": "https://tabler-icons.io"
+        },
+        {
+          "name": "SimpleIcons",
+          "type": "url",
+          "url": "https://simpleicons.org"
+        },
+        {
+          "name": "FeatherIcons",
+          "type": "url",
+          "url": "https://feathericons.com"
+        },
+        {
+          "name": "SvgRepo",
+          "type": "url",
+          "url": "https://svgrepo.com"
+        },
+        {
+          "name": "IconScoutUnicons",
+          "type": "url",
+          "url": "https://iconscout.com/unicons"
+        },
+        {
+          "name": "IonicIcons",
+          "type": "url",
+          "url": "https://ionic.io/ionicons"
+        },
+        {
+          "name": "BootstrapIcons",
+          "type": "url",
+          "url": "https://icons.getbootstrap.com"
+        },
+        {
+          "name": "ReactIcons",
+          "type": "url",
+          "url": "https://react-icons.github.io/react-icons"
+        }
+      ]
+    }
+  ]
+},
+{
+  "name": "Fonts",
+  "type": "folder",
+  "children": [
+    {
+      "name": "GeneralFontLibraries",
+      "type": "folder",
+      "children": [
+        {
+          "name": "GoogleFonts",
+          "type": "url",
+          "url": "https://fonts.google.com"
+        },
+        {
+          "name": "FontSpace",
+          "type": "url",
+          "url": "https://fontspace.com"
+        },
+        {
+          "name": "1001Fonts",
+          "type": "url",
+          "url": "https://www.1001fonts.com"
+        },
+        {
+          "name": "FontSquirrel",
+          "type": "url",
+          "url": "https://www.fontsquirrel.com"
+        },
+        {
+          "name": "FFonts",
+          "type": "url",
+          "url": "https://ffonts.net"
+        }
+      ]
+    },
+    {
+      "name": "Free&OpenSourceFonts",
+      "type": "folder",
+      "children": [
+        {
+          "name": "FontFabric",
+          "type": "url",
+          "url": "https://www.fontfabric.com"
+        },
+        {
+          "name": "UrbanFonts",
+          "type": "url",
+          "url": "https://urbanfonts.com"
+        },
+        {
+          "name": "FontPair",
+          "type": "url",
+          "url": "https://www.fontpair.co"
+        },
+        {
+          "name": "BunnyFonts",
+          "type": "url",
+          "url": "https://fonts.bunny.net"
+        }
+      ]
+    }
+  ]
+},
+{
+  "name": "YouTubeChannels",
+  "type": "folder",
+  "children": [
+    {
+      "name": "WebDev&Programming",
+      "type": "folder",
+      "children": [
+        {
+          "name": "TraversyMedia",
+          "type": "url",
+          "url": "https://www.youtube.com/c/TraversyMedia"
+        },
+        {
+          "name": "freeCodeCamp",
+          "type": "url",
+          "url": "https://www.youtube.com/c/FreeCodeCamp"
+        },
+        {
+          "name": "TheNetNinja",
+          "type": "url",
+          "url": "https://youtube.com/c/TheNetNinja"
+        },
+        {
+          "name": "Academind",
+          "type": "url",
+          "url": "https://www.youtube.com/c/Academind"
+        },
+        {
+          "name": "CodingTech",
+          "type": "url",
+          "url": "https://www.youtube.com/c/CodingTech"
+        },
+        {
+          "name": "WebDevSimplified",
+          "type": "url",
+          "url": "https://www.youtube.com/c/WebDevSimplified/"
+        },
+        {
+          "name": "TheCodingTrain",
+          "type": "url",
+          "url": "https://www.youtube.com/c/TheCodingTrain/"
+        },
+        {
+          "name": "ProgramWithErik",
+          "type": "url",
+          "url": "https://www.youtube.com/c/ProgramWithErik"
+        }
+      ]
+    },
+    {
+      "name": "Design&FrontendDevelopment",
+      "type": "folder",
+      "children": [
+        {
+          "name": "KevinPowell",
+          "type": "url",
+          "url": "https://youtube.com/kepowob"
+        },
+        {
+          "name": "DesignCourse",
+          "type": "url",
+          "url": "https://www.youtube.com/c/DesignCourse"
+        },
+        {
+          "name": "CodeSTACKr",
+          "type": "url",
+          "url": "https://youtube.com/c/codeSTACKr"
+        },
+        {
+          "name": "DevEd",
+          "type": "url",
+          "url": "https://www.youtube.com/c/DevEd/"
+        },
+        {
+          "name": "CoderCoder",
+          "type": "url",
+          "url": "https://www.youtube.com/c/TheCoderCoder"
+        },
+        {
+          "name": "CodingAddict",
+          "type": "url",
+          "url": "https://www.youtube.com/c/CodingAddict"
+        }
+      ]
+    },
+    {
+      "name": "GeneralTech&CodingTips",
+      "type": "folder",
+      "children": [
+        {
+          "name": "GoogleChromeDevelopers",
+          "type": "url",
+          "url": "https://www.youtube.com/c/GoogleChromeDevelopers"
+        },
+        {
+          "name": "Fireship",
+          "type": "url",
+          "url": "https://www.youtube.com/c/Fireship"
+        },
+        {
+          "name": "JavaScriptMastery",
+          "type": "url",
+          "url": "https://www.youtube.com/c/JavaScriptMastery"
+        },
+        {
+          "name": "WesBos",
+          "type": "url",
+          "url": "https://www.youtube.com/wesbos"
+        },
+        {
+          "name": "CodeWithHarry",
+          "type": "url",
+          "url": "https://www.youtube.com/@CodeWithHarry"
+        },
+        {
+          "name": "CoreySchafer",
+          "type": "url",
+          "url": "https://www.youtube.com/@coreyms"
+        }
+      ]
+    }
+  ]
+},
+{
+  "name": "Podcasts",
+  "type": "folder",
+  "children": [
+    {
+      "name": "WebDev&Programming",
+      "type": "folder",
+      "children": [
+        {
+          "name": "Syntax",
+          "type": "url",
+          "url": "https://syntax.fm/"
+        },
+        {
+          "name": "FullstackRadio",
+          "type": "url",
+          "url": "https://fullstackradio.com"
+        },
+        {
+          "name": "TheChangelog",
+          "type": "url",
+          "url": "https://changelog.com/"
+        },
+        {
+          "name": "DevDiscuss",
+          "type": "url",
+          "url": "https://dev.to/devdiscuss"
+        },
+        {
+          "name": "DevNews",
+          "type": "url",
+          "url": "https://dev.to/devnews"
+        },
+        {
+          "name": "TheStackOverflowPodcast",
+          "type": "url",
+          "url": "https://stackoverflow.blog/podcast/"
+        }
+      ]
+    },
+    {
+      "name": "Frontend&Design",
+      "type": "folder",
+      "children": [
+        {
+          "name": "TheLaracastsSnippet",
+          "type": "url",
+          "url": "https://laracasts.com/podcast"
+        },
+        {
+          "name": "FrontEndHappyHour",
+          "type": "url",
+          "url": "https://frontendhappyhour.com/"
+        },
+        {
+          "name": "LadybugPodcast",
+          "type": "url",
+          "url": "https://www.ladybug.dev/"
+        },
+        {
+          "name": "ShopTalkShow",
+          "type": "url",
+          "url": "https://shoptalkshow.com/"
+        },
+        {
+          "name": "CSSPodcast",
+          "type": "url",
+          "url": "https://thecsspodcast.libsyn.com/"
+        },
+        {
+          "name": "HtmlAllTheThings",
+          "type": "url",
+          "url": "https://podcast.htmlallthethings.com/"
+        }
+      ]
+    },
+    {
+      "name": "JavaScript&Frameworks",
+      "type": "folder",
+      "children": [
+        {
+          "name": "JavaScriptJabber",
+          "type": "url",
+          "url": "https://javascriptjabber.com/"
+        },
+        {
+          "name": "CommitYourCode",
+          "type": "url",
+          "url": "https://anchor.fm/commityourcode"
+        },
+        {
+          "name": "JAMStackRadio",
+          "type": "url",
+          "url": "https://www.heavybit.com/library/podcasts/jamstack-radio/"
+        },
+        {
+          "name": "ReactNativeRadio",
+          "type": "url",
+          "url": "https://reactnativeradio.com/"
+        }
+      ]
+    }
+  ]
+},
+{
+  "name": "CodeEditors",
+  "type": "folder",
+  "children": [
+    {
+      "name": "GeneralPurposeEditors",
+      "type": "folder",
+      "children": [
+        {
+          "name": "VSCode",
+          "type": "url",
+          "url": "https://code.visualstudio.com/"
+        },
+        {
+          "name": "SublimeText",
+          "type": "url",
+          "url": "https://www.sublimetext.com/"
+        },
+        {
+          "name": "Brackets",
+          "type": "url",
+          "url": "http://brackets.io/"
+        },
+        {
+          "name": "Fleet",
+          "type": "url",
+          "url": "https://www.jetbrains.com/fleet/"
+        },
+        {
+          "name": "CodeLobster",
+          "type": "url",
+          "url": "https://codelobster.com/"
+        }
+      ]
+    },
+    {
+      "name": "Lightweight&MinimalEditors",
+      "type": "folder",
+      "children": [
+        {
+          "name": "Vim",
+          "type": "url",
+          "url": "https://www.vim.org/"
+        },
+        {
+          "name": "Emacs",
+          "type": "url",
+          "url": "https://www.gnu.org/software/emacs/"
+        },
+        {
+          "name": "Neovim",
+          "type": "url",
+          "url": "https://neovim.io/"
+        },
+        {
+          "name": "Spacemacs",
+          "type": "url",
+          "url": "https://www.spacemacs.org/"
+        }
+      ]
+    },
+    {
+      "name": "Customizable&Advanced",
+      "type": "folder",
+      "children": [
+        {
+          "name": "Atom",
+          "type": "url",
+          "url": "https://atom.io/"
+        },
+        {
+          "name": "JetBrainsIDE",
+          "type": "url",
+          "url": "https://www.jetbrains.com/"
+        }
+      ]
+    }
+  ]
+},
+{
+  "name": "ColorPalettes",
+  "type": "folder",
+  "children": [
+    {
+      "name": "ColorGenerators&Tools",
+      "type": "folder",
+      "children": [
+        {
+          "name": "Coolors",
+          "type": "url",
+          "url": "https://coolors.co"
+        },
+        {
+          "name": "ColorHunt",
+          "type": "url",
+          "url": "https://colorhunt.co"
+        },
+        {
+          "name": "Paletton",
+          "type": "url",
+          "url": "https://paletton.com"
+        },
+        {
+          "name": "ColorHex",
+          "type": "url",
+          "url": "https://color-hex.com"
+        },
+        {
+          "name": "MyColorSpace",
+          "type": "url",
+          "url": "https://mycolor.space"
+        },
+        {
+          "name": "CSSGradient",
+          "type": "url",
+          "url": "https://cssgradient.io"
+        },
+        {
+          "name": "MaterialUIColors",
+          "type": "url",
+          "url": "https://materialui.co/colors/"
+        },
+        {
+          "name": "Palettemaker",
+          "type": "url",
+          "url": "https://palettemaker.com"
+        }
+      ]
+    },
+    {
+      "name": "CuratedColorCollections",
+      "type": "folder",
+      "children": [
+        {
+          "name": "FlatUIColor",
+          "type": "url",
+          "url": "https://flatuicolors.com"
+        },
+        {
+          "name": "AdobeColor",
+          "type": "url",
+          "url": "https://color.adobe.com"
+        },
+        {
+          "name": "HTMLColorCodes",
+          "type": "url",
+          "url": "https://htmlcolorcodes.com"
+        },
+        {
+          "name": "ColorsInspo",
+          "type": "url",
+          "url": "https://colorsinspo.com"
+        },
+        {
+          "name": "UIGradients",
+          "type": "url",
+          "url": "https://uigradients.com"
+        },
+        {
+          "name": "BranitionColors",
+          "type": "url",
+          "url": "https://branition.com/colors"
+        },
+        {
+          "name": "GradientArt",
+          "type": "url",
+          "url": "https://www.gradientos.app"
+        }
+      ]
+    }
+  ]
+},
+{
+  "name": "UIInspiration",
+  "type": "folder",
+  "children": [
+    {
+      "name": "WebsiteShowcases",
+      "type": "folder",
+      "children": [
+        {
+          "name": "Awwwards",
+          "type": "url",
+          "url": "https://www.awwwards.com"
+        },
+        {
+          "name": "Httpster",
+          "type": "url",
+          "url": "https://httpster.net"
+        },
+        {
+          "name": "WebsiteVice",
+          "type": "url",
+          "url": "https://websitevice.com/"
+        }
+      ]
+    },
+    {
+      "name": "DesignCommunityPlatforms",
+      "type": "folder",
+      "children": [
+        {
+          "name": "Dribbble",
+          "type": "url",
+          "url": "https://dribbble.com"
+        },
+        {
+          "name": "Behance",
+          "type": "url",
+          "url": "https://www.behance.net"
+        },
+        {
+          "name": "Codrops",
+          "type": "url",
+          "url": "https://tympanus.net/codrops"
+        }
+      ]
+    },
+    {
+      "name": "LandingPageInspiration",
+      "type": "folder",
+      "children": [
+        {
+          "name": "OnePageLove",
+          "type": "url",
+          "url": "https://onepagelove.com"
+        },
+        {
+          "name": "LandingsDev",
+          "type": "url",
+          "url": "https://landings.dev"
+        }
+      ]
+    }
+  ]
+},
+{
+  "name": "Docs",
+  "type": "folder",
+  "children": [
+    {
+      "name": "WebDevDocumentation",
+      "type": "folder",
+      "children": [
+        {
+          "name": "MDNWebDocs",
+          "type": "url",
+          "url": "https://developer.mozilla.org/en-US/"
+        },
+        {
+          "name": "W3Schools",
+          "type": "url",
+          "url": "https://w3schools.com"
+        },
+        {
+          "name": "DevDocs",
+          "type": "url",
+          "url": "https://devdocs.io"
+        }
+      ]
+    },
+    {
+      "name": "HTML&CSSGuides",
+      "type": "folder",
+      "children": [
+        {
+          "name": "W3Docs",
+          "type": "url",
+          "url": "https://w3docs.com"
+        },
+        {
+          "name": "CSSTrick",
+          "type": "url",
+          "url": "https://css-tricks.com"
+        }
+      ]
+    }
+  ]
+},
+{
+  "name": "AnimationLibraries",
+  "type": "folder",
+  "children": [
+    {
+      "name": "CSSAnimation",
+      "type": "folder",
+      "children": [
+        {
+          "name": "CSShake",
+          "type": "url",
+          "url": "https://elrumordelaluz.github.io/csshake/"
+        },
+        {
+          "name": "AnimateCSS",
+          "type": "url",
+          "url": "https://animate.style/"
+        },
+        {
+          "name": "MagicAnimations",
+          "type": "url",
+          "url": "https://www.minimamente.com/project/magic/"
+        },
+        {
+          "name": "HoverCSS",
+          "type": "url",
+          "url": "https://ianlunn.github.io/Hover/"
+        },
+        {
+          "name": "Animista",
+          "type": "url",
+          "url": "https://animista.net/"
+        },
+        {
+          "name": "CSSAnimation",
+          "type": "url",
+          "url": "https://cssanimation.io"
+        }
+      ]
+    },
+    {
+      "name": "JavaScriptAnimation",
+      "type": "folder",
+      "children": [
+        {
+          "name": "AnimeJS",
+          "type": "url",
+          "url": "https://animejs.com/"
+        },
+        {
+          "name": "GreenSockGSAP",
+          "type": "url",
+          "url": "https://greensock.com/gsap/"
+        },
+        {
+          "name": "MoJS",
+          "type": "url",
+          "url": "https://mojs.github.io/"
+        },
+        {
+          "name": "VelocityJS",
+          "type": "url",
+          "url": "http://velocityjs.org/"
+        },
+        {
+          "name": "Popmotion",
+          "type": "url",
+          "url": "https://popmotion.io/"
+        },
+        {
+          "name": "LottiePlayer",
+          "type": "url",
+          "url": "https://lottiefiles.com/web-player"
+        },
+        {
+          "name": "FramerMotion",
+          "type": "url",
+          "url": "https://www.framer.com/motion"
+        },
+        {
+          "name": "MotionOne",
+          "type": "url",
+          "url": "https://motion.dev"
+        }
+      ]
+    },
+    {
+      "name": "SVG&VectorAnimations",
+      "type": "folder",
+      "children": [
+        {
+          "name": "SnapSVG",
+          "type": "url",
+          "url": "http://snapsvg.io/"
+        },
+        {
+          "name": "SVGator",
+          "type": "url",
+          "url": "https://www.svgator.com/"
+        }
+      ]
+    }
+  ]
+},
+{
+  "name": "Charts",
+  "type": "folder",
+  "children": [
+    {
+      "name": "JavaScriptChartLibraries",
+      "type": "folder",
+      "children": [
+        {
+          "name": "ChartJS",
+          "type": "url",
+          "url": "https://www.chartjs.org/"
+        },
+        {
+          "name": "D3JS",
+          "type": "url",
+          "url": "https://d3js.org/"
+        },
+        {
+          "name": "AmCharts",
+          "type": "url",
+          "url": "https://www.amcharts.com/"
+        },
+        {
+          "name": "ECharts",
+          "type": "url",
+          "url": "https://echarts.apache.org/"
+        },
+        {
+          "name": "ThreeJS",
+          "type": "url",
+          "url": "https://threejs.org/"
+        }
+      ]
+    },
+    {
+      "name": "CSS&LightweightChart",
+      "type": "folder",
+      "children": [
+        {
+          "name": "ChartsCSS",
+          "type": "url",
+          "url": "https://chartscss.org/"
+        }
+      ]
+    }
+  ]
+},
+{
+  "name": "ChromeExtensions",
+  "type": "folder",
+  "children": [
+    {
+      "name": "DeveloperToolsExtensions",
+      "type": "folder",
+      "children": [
+        {
+          "name": "WebDeveloper",
+          "type": "url",
+          "url": "https://chrome.google.com/webstore/detail/web-developer/neljngfdbmhkphpcpkmodgfojmgeidfj"
+        },
+        {
+          "name": "ReactDeveloperTools",
+          "type": "url",
+          "url": "https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi"
+        },
+        {
+          "name": "ReduxDevTools",
+          "type": "url",
+          "url": "https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd"
+        },
+        {
+          "name": "Wappalyzer",
+          "type": "url",
+          "url": "https://chrome.google.com/webstore/detail/wappalyzer-technology-pro/gppongmhjkpfnbhagpmjfkannfbllamg"
+        },
+        {
+          "name": "JSONViewer",
+          "type": "url",
+          "url": "https://chrome.google.com/webstore/detail/json-viewer/gfkibohpmpcmfkgjjbmcoipkafnmdkmp"
+        }
+      ]
+    },
+    {
+      "name": "ProductivityExtensions",
+      "type": "folder",
+      "children": [
+        {
+          "name": "ColorZilla",
+          "type": "url",
+          "url": "https://chrome.google.com/webstore/detail/colorzilla/bhlhnicpbhignbdhedgjhgdocnmhomnp"
+        },
+        {
+          "name": "TabCopy",
+          "type": "url",
+          "url": "https://chrome.google.com/webstore/detail/tab-copy/mcbpblocgmgfnpjjppndjkmgjaogfceg"
+        },
+        {
+          "name": "WhatFont",
+          "type": "url",
+          "url": "https://chrome.google.com/webstore/detail/whatfont/dcdaoajegngnpghnfnopfolobblmnibg"
+        },
+        {
+          "name": "WindowResizer",
+          "type": "url",
+          "url": "https://chrome.google.com/webstore/detail/window-resizer/kkelicaakdanhinjdeammmilcgefonfh"
+        }
+      ]
+    },
+    {
+      "name": "Design&UIExtensions",
+      "type": "folder",
+      "children": [
+        {
+          "name": "PerfectPixel",
+          "type": "url",
+          "url": "https://chrome.google.com/webstore/detail/perfectpixel-by-welldoneco/dlcbjidoegionmjdooeccmkfciocmkgk"
+        },
+        {
+          "name": "FontFaceNinja",
+          "type": "url",
+          "url": "https://chrome.google.com/webstore/detail/fontface-ninja/eljapbgkmlngdpckoiiibecpemleclhh"
+        },
+        {
+          "name": "PageRuler",
+          "type": "url",
+          "url": "https://chrome.google.com/webstore/detail/page-ruler/emliamioobfffbgcfdchabfibonehkme"
+        }
+      ]
+    }
+  ]
+},
+{
+  "name": "WebsiteOptimizationTools",
+  "type": "folder",
+  "children": [
+    {
+      "name": "Performance&SpeedTesting",
+      "type": "folder",
+      "children": [
+        {
+          "name": "GooglePageSpeedInsights",
+          "type": "url",
+          "url": "https://developers.google.com/speed/pagespeed/insights/"
+        },
+        {
+          "name": "GTmetrix",
+          "type": "url",
+          "url": "https://gtmetrix.com/"
+        },
+        {
+          "name": "Pingdom",
+          "type": "url",
+          "url": "https://tools.pingdom.com/"
+        },
+        {
+          "name": "WebPageTest",
+          "type": "url",
+          "url": "https://www.webpagetest.org/"
+        },
+        {
+          "name": "YellowLabTools",
+          "type": "url",
+          "url": "https://yellowlab.tools/"
+        }
+      ]
+    },
+    {
+      "name": "SEO&AnalyticsTools",
+      "type": "folder",
+      "children": [
+        {
+          "name": "Ahrefs",
+          "type": "url",
+          "url": "https://ahrefs.com/"
+        },
+        {
+          "name": "Moz",
+          "type": "url",
+          "url": "https://moz.com/"
+        },
+        {
+          "name": "SEMrush",
+          "type": "url",
+          "url": "https://semrush.com/"
+        },
+        {
+          "name": "GoogleAnalytics",
+          "type": "url",
+          "url": "https://analytics.google.com/"
+        },
+        {
+          "name": "ScreamingFrogSEO",
+          "type": "url",
+          "url": "https://www.screamingfrog.co.uk/seo-spider/"
+        }
+      ]
+    },
+    {
+      "name": "AccessibilityTesting",
+      "type": "folder",
+      "children": [
+        {
+          "name": "Wave",
+          "type": "url",
+          "url": "https://wave.webaim.org/"
+        },
+        {
+          "name": "Axe",
+          "type": "url",
+          "url": "https://www.deque.com/axe/"
+        },
+        {
+          "name": "Lighthouse",
+          "type": "url",
+          "url": "https://developers.google.com/web/tools/lighthouse/"
+        },
+        {
+          "name": "AccessibilityInsights",
+          "type": "url",
+          "url": "https://accessibilityinsights.io/"
+        }
+      ]
+    }
+  ]
+},
+{
+  "name": "HTMLCSSJavaScriptTemplates",
+  "type": "folder",
+  "children": [
+    {
+      "name": "Free",
+      "type": "folder",
+      "children": [
+        {
+          "name": "HTML5Up",
+          "type": "url",
+          "url": "https://html5up.net/"
+        },
+        {
+          "name": "StartBootstrap",
+          "type": "url",
+          "url": "https://startbootstrap.com/"
+        },
+        {
+          "name": "BootstrapMade",
+          "type": "url",
+          "url": "https://bootstrapmade.com/"
+        },
+        {
+          "name": "FreeHTML5",
+          "type": "url",
+          "url": "https://freehtml5.co/"
+        },
+        {
+          "name": "Colorlib",
+          "type": "url",
+          "url": "https://colorlib.com/wp/templates/"
+        },
+        {
+          "name": "Templated",
+          "type": "url",
+          "url": "https://templated.co/"
+        }
+      ]
+    },
+    {
+      "name": "Premium",
+      "type": "folder",
+      "children": [
+        {
+          "name": "ThemeForest",
+          "type": "url",
+          "url": "https://themeforest.net/"
+        },
+        {
+          "name": "TemplateMonster",
+          "type": "url",
+          "url": "https://www.templatemonster.com/"
+        },
+        {
+          "name": "CreativeMarket",
+          "type": "url",
+          "url": "https://creativemarket.com/"
+        },
+        {
+          "name": "WrapBootstrap",
+          "type": "url",
+          "url": "https://wrapbootstrap.com/"
+        }
+      ]
+    },
+    {
+      "name": "FrontendFramework",
+      "type": "folder",
+      "children": [
+        {
+          "name": "TailwindUI",
+          "type": "url",
+          "url": "https://tailwindui.com/"
+        },
+        {
+          "name": "Bootstrapious",
+          "type": "url",
+          "url": "https://bootstrapious.com/"
+        },
+        {
+          "name": "MaterializeCSS",
+          "type": "url",
+          "url": "https://materializecss.com/templates.html"
+        },
+        {
+          "name": "Vuetify",
+          "type": "url",
+          "url": "https://vuetifyjs.com/en/getting-started/pre-made-layouts/"
+        },
+        {
+          "name": "MDBootstrap",
+          "type": "url",
+          "url": "https://mdbootstrap.com/"
+        }
+      ]
+    }
+  ]
+},
+{
+  "name": "Newsletters",
+  "type": "folder",
+  "children": [
+    {
+      "name": "WebDevelopment",
+      "type": "folder",
+      "children": [
+        {
+          "name": "FrontendFocus",
+          "type": "url",
+          "url": "https://frontendfoc.us/"
+        },
+        {
+          "name": "CSSWeekly",
+          "type": "url",
+          "url": "https://css-weekly.com/"
+        },
+        {
+          "name": "WebToolsWeekly",
+          "type": "url",
+          "url": "https://webtoolsweekly.com/"
+        },
+        {
+          "name": "SitePoint",
+          "type": "url",
+          "url": "https://www.sitepoint.com/newsletter/"
+        }
+      ]
+    },
+    {
+      "name": "JavaScript&Frontend",
+      "type": "folder",
+      "children": [
+        {
+          "name": "JavaScriptWeekly",
+          "type": "url",
+          "url": "https://javascriptweekly.com/"
+        },
+        {
+          "name": "NodeWeekly",
+          "type": "url",
+          "url": "https://nodeweekly.com/"
+        },
+        {
+          "name": "ReactStatus",
+          "type": "url",
+          "url": "https://react.statuscode.com/"
+        },
+        {
+          "name": "Bytes",
+          "type": "url",
+          "url": "https://bytes.dev/"
+        }
+      ]
+    },
+    {
+      "name": "Design&UX",
+      "type": "folder",
+      "children": [
+        {
+          "name": "DesignModo",
+          "type": "url",
+          "url": "https://designmodo.com/newsletter/"
+        },
+        {
+          "name": "Sidebar",
+          "type": "url",
+          "url": "https://sidebar.io/"
+        },
+        {
+          "name": "UXDesignWeekly",
+          "type": "url",
+          "url": "https://uxdesignweekly.com/"
+        },
+        {
+          "name": "UIBreakfast",
+          "type": "url",
+          "url": "https://uibreakfast.com/newsletter/"
+        }
+      ]
+    }
+  ]
+},
+{
+  "name": "CSSGenerators",
+  "type": "folder",
+  "children": [
+    {
+      "name": "GeneralCSS",
+      "type": "folder",
+      "children": [
+        {
+          "name": "CSSGenerator",
+          "type": "url",
+          "url": "https://cssgenerator.org/"
+        },
+        {
+          "name": "CSS3Generator",
+          "type": "url",
+          "url": "https://css3generator.com/"
+        },
+        {
+          "name": "EnjoyCSS",
+          "type": "url",
+          "url": "https://enjoycss.com/"
+        },
+        {
+          "name": "CSSMatic",
+          "type": "url",
+          "url": "https://www.cssmatic.com/"
+        },
+        {
+          "name": "Wweb.Dev",
+          "type": "url",
+          "url": "https://wweb.dev/resources"
+        }
+      ]
+    },
+    {
+      "name": "Gradient&Background",
+      "type": "folder",
+      "children": [
+        {
+          "name": "GradientGenerator",
+          "type": "url",
+          "url": "https://cssgradient.io/"
+        },
+        {
+          "name": "CoolBackgrounds",
+          "type": "url",
+          "url": "https://coolbackgrounds.io/"
+        },
+        {
+          "name": "GradientHunt",
+          "type": "url",
+          "url": "https://gradienthunt.com/"
+        },
+        {
+          "name": "BGJar",
+          "type": "url",
+          "url": "https://bgjar.com/"
+        }
+      ]
+    },
+    {
+      "name": "Animation&Transform",
+      "type": "folder",
+      "children": [
+        {
+          "name": "Animista",
+          "type": "url",
+          "url": "https://animista.net/"
+        },
+        {
+          "name": "HoverCSS",
+          "type": "url",
+          "url": "https://ianlunn.github.io/Hover/"
+        },
+        {
+          "name": "MagicAnimations",
+          "type": "url",
+          "url": "https://www.minimamente.com/project/magic/"
+        },
+        {
+          "name": "Keyframes",
+          "type": "url",
+          "url": "https://keyframes.app/"
+        }
+      ]
+    },
+    {
+      "name": "Grid&Layout",
+      "type": "folder",
+      "children": [
+        {
+          "name": "CssGridGenerator",
+          "type": "url",
+          "url": "https://cssgridgenerator.io/"
+        }
+      ]
+    }
+  ]
+},
+{
+  "name": "CSSGames",
+  "type": "folder",
+  "children": [
+    {
+      "name": "FlexboxGames",
+      "type": "folder",
+      "children": [
+        {
+          "name": "FlexboxFroggy",
+          "type": "url",
+          "url": "https://flexboxfroggy.com/"
+        },
+        {
+          "name": "FlexboxDefense",
+          "type": "url",
+          "url": "http://www.flexboxdefense.com/"
+        }
+      ]
+    },
+    {
+      "name": "GridGames",
+      "type": "folder",
+      "children": [
+        {
+          "name": "GridGarden",
+          "type": "url",
+          "url": "https://cssgridgarden.com/"
+        }
+      ]
+    },
+    {
+      "name": "GeneralCSSConceptsGames",
+      "type": "folder",
+      "children": [
+        {
+          "name": "CSSDiner",
+          "type": "url",
+          "url": "https://flukeout.github.io/"
+        },
+        {
+          "name": "CSSBattle",
+          "type": "url",
+          "url": "https://cssbattle.dev/"
+        },
+        {
+          "name": "Codepip",
+          "type": "url",
+          "url": "https://codepip.com/games/"
+        }
+      ]
+    }
+  ]
+},
+{
+  "name": "OnlineTools",
+  "type": "folder",
+  "children": [
+    {
+      "name": "CodePlaygrounds",
+      "type": "folder",
+      "children": [
+        {
+          "name": "CodePen",
+          "type": "url",
+          "url": "https://codepen.io/"
+        },
+        {
+          "name": "JSFiddle",
+          "type": "url",
+          "url": "https://jsfiddle.net/"
+        },
+        {
+          "name": "CodeSandbox",
+          "type": "url",
+          "url": "https://codesandbox.io/"
+        },
+        {
+          "name": "StackBlitz",
+          "type": "url",
+          "url": "https://stackblitz.com/"
+        }
+      ]
+    },
+    {
+      "name": "ImageOptimization",
+      "type": "folder",
+      "children": [
+        {
+          "name": "TinyPNG",
+          "type": "url",
+          "url": "https://tinypng.com/"
+        },
+        {
+          "name": "ImageOptim",
+          "type": "url",
+          "url": "https://imageoptim.com/online"
+        },
+        {
+          "name": "Squoosh",
+          "type": "url",
+          "url": "https://squoosh.app/"
+        },
+        {
+          "name": "CompressorIO",
+          "type": "url",
+          "url": "https://compressor.io/"
+        }
+      ]
+    },
+    {
+      "name": "Color&Design",
+      "type": "folder",
+      "children": [
+        {
+          "name": "Coolors",
+          "type": "url",
+          "url": "https://coolors.co/"
+        },
+        {
+          "name": "ColorHunt",
+          "type": "url",
+          "url": "https://colorhunt.co/"
+        },
+        {
+          "name": "Paletton",
+          "type": "url",
+          "url": "https://paletton.com/"
+        },
+        {
+          "name": "AdobeColor",
+          "type": "url",
+          "url": "https://color.adobe.com/"
+        }
+      ]
+    },
+    {
+      "name": "MiscellaneousWebDev",
+      "type": "folder",
+      "children": [
+        {
+          "name": "JSONLint",
+          "type": "url",
+          "url": "https://jsonlint.com/"
+        },
+        {
+          "name": "RegExr",
+          "type": "url",
+          "url": "https://regexr.com/"
+        },
+        {
+          "name": "CanIUse",
+          "type": "url",
+          "url": "https://caniuse.com/"
+        },
+        {
+          "name": "FaviconGenerator",
+          "type": "url",
+          "url": "https://favicon.io/"
+        }
+      ]
+    }
+  ]
+},
+{
+  "name": "UIComponents",
+  "type": "folder",
+  "children": [
+    {
+      "name": "GeneralComponent",
+      "type": "folder",
+      "children": [
+        {
+          "name": "Bootstrap",
+          "type": "url",
+          "url": "https://getbootstrap.com/"
+        },
+        {
+          "name": "TailwindCSS",
+          "type": "url",
+          "url": "https://tailwindcss.com/"
+        },
+        {
+          "name": "Bulma",
+          "type": "url",
+          "url": "https://bulma.io/"
+        },
+        {
+          "name": "Foundation",
+          "type": "url",
+          "url": "https://get.foundation/"
+        }
+      ]
+    },
+    {
+      "name": "ReactComponent",
+      "type": "folder",
+      "children": [
+        {
+          "name": "MaterialUI",
+          "type": "url",
+          "url": "https://mui.com/"
+        },
+        {
+          "name": "AntDesign",
+          "type": "url",
+          "url": "https://ant.design/"
+        },
+        {
+          "name": "ChakraUI",
+          "type": "url",
+          "url": "https://chakra-ui.com/"
+        },
+        {
+          "name": "BlueprintJS",
+          "type": "url",
+          "url": "https://blueprintjs.com/"
+        },
+        {
+          "name": "ReactBootstrap",
+          "type": "url",
+          "url": "https://react-bootstrap.github.io/"
+        }
+      ]
+    },
+    {
+      "name": "VueComponent",
+      "type": "folder",
+      "children": [
+        {
+          "name": "Vuetify",
+          "type": "url",
+          "url": "https://vuetifyjs.com/"
+        },
+        {
+          "name": "Quasar",
+          "type": "url",
+          "url": "https://quasar.dev/"
+        },
+        {
+          "name": "Buefy",
+          "type": "url",
+          "url": "https://buefy.org/"
+        },
+        {
+          "name": "ElementPlus",
+          "type": "url",
+          "url": "https://element-plus.org/"
+        }
+      ]
+    },
+    {
+      "name": "AngularComponent",
+      "type": "folder",
+      "children": [
+        {
+          "name": "AngularMaterial",
+          "type": "url",
+          "url": "https://material.angular.io/"
+        },
+        {
+          "name": "NGBootstrap",
+          "type": "url",
+          "url": "https://ng-bootstrap.github.io/"
+        },
+        {
+          "name": "PrimeNG",
+          "type": "url",
+          "url": "https://primefaces.org/primeng/"
+        },
+        {
+          "name": "Clarity",
+          "type": "url",
+          "url": "https://clarity.design/"
+        }
+      ]
+    }
+  ]
+},
+{
+  "name": "VueUILibraries",
+  "type": "folder",
+  "children": [
+    {
+      "name": "GeneralPurposeUI",
+      "type": "folder",
+      "children": [
+        {
+          "name": "Vuetify",
+          "type": "url",
+          "url": "https://vuetifyjs.com/"
+        },
+        {
+          "name": "Quasar",
+          "type": "url",
+          "url": "https://quasar.dev/"
+        },
+        {
+          "name": "ElementPlus",
+          "type": "url",
+          "url": "https://element-plus.org/"
+        },
+        {
+          "name": "ViewUI",
+          "type": "url",
+          "url": "https://www.iviewui.com/"
+        },
+        {
+          "name": "NaiveUI",
+          "type": "url",
+          "url": "https://www.naiveui.com/"
+        }
+      ]
+    },
+    {
+      "name": "MaterialDesign",
+      "type": "folder",
+      "children": [
+        {
+          "name": "VueMaterial",
+          "type": "url",
+          "url": "https://vuematerial.io/"
+        },
+        {
+          "name": "MuseUI",
+          "type": "url",
+          "url": "https://muse-ui.org/"
+        },
+        {
+          "name": "BalmUI",
+          "type": "url",
+          "url": "https://material.balmjs.com/"
+        }
+      ]
+    },
+    {
+      "name": "UtilityFocused",
+      "type": "folder",
+      "children": [
+        {
+          "name": "VueFormulate",
+          "type": "url",
+          "url": "https://vueformulate.com/"
+        },
+        {
+          "name": "VueTailwind",
+          "type": "url",
+          "url": "https://vue-tailwind.com/"
+        },
+        {
+          "name": "VueChartkick",
+          "type": "url",
+          "url": "https://vue-chartkick.com/"
+        },
+        {
+          "name": "AgGridVue",
+          "type": "url",
+          "url": "https://www.ag-grid.com/vue-data-grid/"
+        }
+      ]
+    }
+  ]
+},
+{
+  "name": "ReactUI Libraries",
+  "type": "folder",
+  "children": [
+    {
+      "name": "GeneralPurposeUI",
+      "type": "folder",
+      "children": [
+        {
+          "name": "AntDesign",
+          "type": "url",
+          "url": "https://ant.design/"
+        },
+        {
+          "name": "ChakraUI",
+          "type": "url",
+          "url": "https://chakra-ui.com/"
+        },
+        {
+          "name": "Blueprint",
+          "type": "url",
+          "url": "https://blueprintjs.com/"
+        },
+        {
+          "name": "SemanticUIReact",
+          "type": "url",
+          "url": "https://react.semantic-ui.com/"
+        },
+        {
+          "name": "Evergreen",
+          "type": "url",
+          "url": "https://evergreen.segment.com/"
+        }
+      ]
+    },
+    {
+      "name": "MaterialDesign",
+      "type": "folder",
+      "children": [
+        {
+          "name": "MaterialUI",
+          "type": "url",
+          "url": "https://mui.com/"
+        },
+        {
+          "name": "ReactMD",
+          "type": "url",
+          "url": "https://react-md.dev/"
+        }
+      ]
+    },
+    {
+      "name": "Utility&SpecificComponent",
+      "type": "folder",
+      "children": [
+        {
+          "name": "ReactTable",
+          "type": "url",
+          "url": "https://react-table.tanstack.com/"
+        },
+        {
+          "name": "ReactHookForm",
+          "type": "url",
+          "url": "https://react-hook-form.com/"
+        },
+        {
+          "name": "ReactSelect",
+          "type": "url",
+          "url": "https://react-select.com/"
+        },
+        {
+          "name": "Recharts",
+          "type": "url",
+          "url": "https://recharts.org/"
+        },
+        {
+          "name": "ReactBeautifulDnd",
+          "type": "url",
+          "url": "https://github.com/atlassian/react-beautiful-dnd"
+        }
+      ]
+    }
+  ]
+},
+{
+  "name": "AngularUILibraries",
+  "type": "folder",
+  "children": [
+    {
+      "name": "GeneralPurposeUI",
+      "type": "folder",
+      "children": [
+        {
+          "name": "PrimeNG",
+          "type": "url",
+          "url": "https://primefaces.org/primeng/"
+        },
+        {
+          "name": "NGBootstrap",
+          "type": "url",
+          "url": "https://ng-bootstrap.github.io/"
+        },
+        {
+          "name": "NGZorro",
+          "type": "url",
+          "url": "https://ng.ant.design/"
+        },
+        {
+          "name": "OnsenUI",
+          "type": "url",
+          "url": "https://onsen.io/angular/"
+        },
+        {
+          "name": "Clarity",
+          "type": "url",
+          "url": "https://clarity.design/"
+        }
+      ]
+    },
+    {
+      "name": "MaterialDesign",
+      "type": "folder",
+      "children": [
+        {
+          "name": "AngularMaterial",
+          "type": "url",
+          "url": "https://material.angular.io/"
+        },
+        {
+          "name": "BalmUIAngular",
+          "type": "url",
+          "url": "https://material.balmjs.com/"
+        }
+      ]
+    },
+    {
+      "name": "Utility&SpecificComponent",
+      "type": "folder",
+      "children": [
+        {
+          "name": "AGGridAngular",
+          "type": "url",
+          "url": "https://www.ag-grid.com/angular-data-grid/"
+        },
+        {
+          "name": "NGXCharts",
+          "type": "url",
+          "url": "https://swimlane.github.io/ngx-charts/"
+        },
+        {
+          "name": "NGXFormly",
+          "type": "url",
+          "url": "https://formly.dev/"
+        },
+        {
+          "name": "NGXTranslate",
+          "type": "url",
+          "url": "https://github.com/ngx-translate/core"
+        }
+      ]
+    }
+  ]
+},
+{
+  "name": "Others",
+  "type": "folder",
+  "children": [
+    {
+      "name": "Mockup&PrototypingTools",
+      "type": "folder",
+      "children": [
+        {
+          "name": "Figma",
+          "type": "url",
+          "url": "https://www.figma.com/"
+        },
+        {
+          "name": "AdobeXD",
+          "type": "url",
+          "url": "https://www.adobe.com/products/xd.html"
+        },
+        {
+          "name": "InVision",
+          "type": "url",
+          "url": "https://www.invisionapp.com/"
+        },
+        {
+          "name": "MarvelApp",
+          "type": "url",
+          "url": "https://marvelapp.com/"
+        }
+      ]
+    },
+    {
+      "name": "APITesting&Documentation",
+      "type": "folder",
+      "children": [
+        {
+          "name": "Postman",
+          "type": "url",
+          "url": "https://www.postman.com/"
+        },
+        {
+          "name": "Swagger",
+          "type": "url",
+          "url": "https://swagger.io/"
+        },
+        {
+          "name": "Hoppscotch",
+          "type": "url",
+          "url": "https://hoppscotch.io/"
+        },
+        {
+          "name": "Insomnia",
+          "type": "url",
+          "url": "https://insomnia.rest/"
+        }
+      ]
+    },
+    {
+      "name": "Font&TypographyTools",
+      "type": "folder",
+      "children": [
+        {
+          "name": "GoogleFonts",
+          "type": "url",
+          "url": "https://fonts.google.com/"
+        },
+        {
+          "name": "AdobeFonts",
+          "type": "url",
+          "url": "https://fonts.adobe.com/"
+        },
+        {
+          "name": "FontSquirrel",
+          "type": "url",
+          "url": "https://www.fontsquirrel.com/"
+        },
+        {
+          "name": "WhatFontIs",
+          "type": "url",
+          "url": "https://www.whatfontis.com/"
+        }
+      ]
+    },
+    {
+      "name": "MiscellaneousDevUtilities",
+      "type": "folder",
+      "children": [
+        {
+          "name": "GitHub",
+          "type": "url",
+          "url": "https://github.com/"
+        },
+        {
+          "name": "GitLab",
+          "type": "url",
+          "url": "https://gitlab.com/"
+        },
+        {
+          "name": "Bitbucket",
+          "type": "url",
+          "url": "https://bitbucket.org/"
+        },
+        {
+          "name": "Zapier",
+          "type": "url",
+          "url": "https://zapier.com/"
+        }
+      ]
+    }
+  ]
+}
+   ]
+}
